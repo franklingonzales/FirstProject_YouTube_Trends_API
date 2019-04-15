@@ -1,0 +1,58 @@
+{
+	"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/2Vn4hE6BEKb6DWoofzVgp32X36s\"",
+	"items": [
+		{
+			"contentDetails": {
+				"relatedPlaylists": {
+					"favorites": "FLSAUGyc_xA8uYzaIVG6MESQ",
+					"uploads": "UUSAUGyc_xA8uYzaIVG6MESQ",
+					"watchHistory": "HL",
+					"watchLater": "WL"
+				}
+			},
+			"etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4xgPd1MWLbLFTzbPdgJdduTXfpI\"",
+			"id": "UCSAUGyc_xA8uYzaIVG6MESQ",
+			"kind": "youtube#channel",
+			"snippet": {
+				"country": "US",
+				"customUrl": "ryanhiga",
+				"description": "Send me stuff here!\nPO BOX 232355 Las Vegas, NV 89105\n\nFilm / Television / Personal Appearances / Media Contact\nBusiness Inquiries Only:\nEmail: Media@HigaTV.com\n\nMy 2nd Channel:\nhttp://www.youtube.com/HigaTV\n\nAlso check out my Twitter:\nhttp://www.twitter.com/TheRealRyanHiga\n\nFacebook:\nhttp://www.facebook.com/higatv\n\nInstagram\nhttps://www.instagram.com/notryanhiga/\n\nWeibo:\n http://www.weibo.com/ryanhiga",
+				"localized": {
+					"description": "Send me stuff here!\nPO BOX 232355 Las Vegas, NV 89105\n\nFilm / Television / Personal Appearances / Media Contact\nBusiness Inquiries Only:\nEmail: Media@HigaTV.com\n\nMy 2nd Channel:\nhttp://www.youtube.com/HigaTV\n\nAlso check out my Twitter:\nhttp://www.twitter.com/TheRealRyanHiga\n\nFacebook:\nhttp://www.facebook.com/higatv\n\nInstagram\nhttps://www.instagram.com/notryanhiga/\n\nWeibo:\n http://www.weibo.com/ryanhiga",
+					"title": "nigahiga"
+				},
+				"publishedAt": "2006-07-21T01:40:43.000Z",
+				"thumbnails": {
+					"default": {
+						"height": 88,
+						"url": "https://yt3.ggpht.com/a-/AAuE7mCy-020beiXz9VUt5gNkazeb7D5qFo1nJAPnA=s88-mo-c-c0xffffffff-rj-k-no",
+						"width": 88
+					},
+					"high": {
+						"height": 800,
+						"url": "https://yt3.ggpht.com/a-/AAuE7mCy-020beiXz9VUt5gNkazeb7D5qFo1nJAPnA=s800-mo-c-c0xffffffff-rj-k-no",
+						"width": 800
+					},
+					"medium": {
+						"height": 240,
+						"url": "https://yt3.ggpht.com/a-/AAuE7mCy-020beiXz9VUt5gNkazeb7D5qFo1nJAPnA=s240-mo-c-c0xffffffff-rj-k-no",
+						"width": 240
+					}
+				},
+				"title": "nigahiga"
+			},
+			"statistics": {
+				"commentCount": "0",
+				"hiddenSubscriberCount": false,
+				"subscriberCount": "21340198",
+				"videoCount": "365",
+				"viewCount": "4026701333"
+			}
+		}
+	],
+	"kind": "youtube#channelListResponse",
+	"pageInfo": {
+		"resultsPerPage": 5,
+		"totalResults": 1
+	}
+}

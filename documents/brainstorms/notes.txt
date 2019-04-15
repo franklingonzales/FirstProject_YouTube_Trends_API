@@ -1,0 +1,107 @@
+Dataset
+    https://www.kaggle.com/datasnaek/youtube-new
+	https://github.com/DataSnaek/Trending-YouTube-Scraper
+	
+	Data structure
+		video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
+		
+    Question : How to be a make money as a Youtuber ? 
+	
+	    - Video Categories
+		    - How to build the my network ?
+			- What type of video should I be doing ?
+			
+
+	    Factors
+		    - Numbers of views
+			- Likes
+			- Followers
+			
+		- How Trends works
+		
+		- Views X Followers
+		- Time spend watching videos
+		- Measure Performance
+		- How many videos per day to be doing ? (compare with channels)
+		- Longest trading videos
+		- How to become famous ? 
+		
+	
+
+https://www.datapine.com/kpi-examples-and-templates/youtube
+https://developers.google.com/youtube/v3/docs/thumbnails
+https://github.com/DataSnaek/Trending-YouTube-Scraper/blob/master/scraper.py
+https://www.kaggle.com/alexisgardin/youtube-video-analysis-si4/data
+https://github.com/DataSnaek/Trending-YouTube-Scraper
+https://www.kaggle.com/datasnaek/youtube-new#FRvideos.csv
+https://www.kaggle.com/yanpapadakis/trending-youtube-video-metadata-analysis
+https://www.kaggle.com/datasnaek/youtube#USvideos.csv
+https://www.kaggle.com/hoonkeng/deep-analysis-on-youtube-trending-videos-eda
+https://www.kaggle.com/hoonkeng/deep-analysis-on-youtube-trending-videos-eda
+https://backlinko.com/youtube-ranking-factors
+https://www.tubebuddy.com/
+https://rocketium.com/academy/ab-tests-videos/
+https://www.tubics.com/blog/what-is-a-youtube-thumbnail/
+http://engineering.khanacademy.org/posts/making-thumbnails-fast.htm
+http://salman-w.blogspot.com/2010/01/retrieve-youtube-video-title.html
+
+https://backlinko.com/youtube-ranking-factors
+https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api
+https://www.youtube.com/oembed?format=json&url=http%3A//youtube.com/watch%3Fv%3DDLzxrzFCyOs
+https://www.tubics.com/blog/what-is-a-youtube-thumbnail/
+https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api
+https://www.logicinbound.com/youtube-thumbnail-size/
+https://mention.com/blog/youtube-marketing/
+https://github.com/youtube/api-samples
+https://medium.com/greyatom/youtube-data-in-python-6147160c5833
+https://www.youtube.com/watch?v=k6SnO49l3Hk
+https://www.coursera.org/lecture/social-media-data-analytics/video-4-using-python-to-extract-data-from-youtube-hfelS
+
+
+https://www.kaggle.com/donyoe/exploring-youtube-trending-statistics-eda
+https://www.kaggle.com/supanigr/exploring-youtube-video-statistics
+	
+    
+https://socialblade.com/youtube/
+
+    Trend Youtube 
+	    https://www.kaggle.com/datasnaek/youtube-new#US_category_id.json
+		
+	What are we trying to answer 
+	    - Top 10 Trending
+		- Views x Likes
+		- Likes x Dislikes
+		
+
+		
+		
+Keys 
+   
+	- Gain an audience
+	- Upload frequency
+	- Numbers of subscribers
+	- Type of Channel
+	- Type of content
+	- Meet the requirements. 
+	  You need at least 4,000 watch hours in the previous 12 months and 1000 subscribers 
+	- Market your videos elsewhere
+	
+	
+	
+{
+	"html": "<iframe width=\"459\" height=\"344\" src=\"https://www.youtube.com/embed/DLzxrzFCyOs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"thumbnail_url": "https://i.ytimg.com/vi/DLzxrzFCyOs/hqdefault.jpg",
+	"thumbnail_height": 360,
+	"width": 459,
+	"provider_url": "https://www.youtube.com/",
+	"author_url": "https://www.youtube.com/channel/UCLNd5EtH77IyN1frExzwPRQ",
+	"author_name": "AllKindsOfStuff",
+	"version": "1.0",
+	"title": "Rick Astley - Never Gonna Give You Up [HQ]",
+	"provider_name": "YouTube",
+	"thumbnail_width": 480,
+	"type": "video",
+	"height": 344
+}
+
+	
